@@ -1,0 +1,27 @@
+{
+  "name": "dev-on-macOS",
+  "version": "0.0.1",
+  "description": "Dev on macOS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "repository": "https://github.com/dong4j/macOS-dev",
+  "author": "dong4j <dong4j@gmail.com>",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "markdown-it": "^8.4.2",
+    "markdown-it-imsize": "^2.0.1",
+    "markdown-it-task-lists": "^2.1.1",
+    "vuepress-theme-reco": "^0.2.1"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.3"
+  }
+}
