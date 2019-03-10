@@ -31,6 +31,8 @@ footer: 2019 ©dong4j. Released under the CC BY-NC-SA 4.0 International License.
     <a href="./github/contribute.html">参与贡献</a>
 </h3>
 
+![](./imgs/f78a8b7c.png)
+
 ---
 
 ## [Changelog 更新日志](./github/changelog.md)

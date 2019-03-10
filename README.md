@@ -1,6 +1,6 @@
 <div align="center"><img src="./docs/.vuepress/public/hero.png" alt="Icon Badge" width="30%" /></div>
 
-<h1 align="center">Fuck Java Interview</h1>
+<h1 align="center">macOS 开发环境配置</h1>
 
 <h3 align="center">🍳  💡  🎉</h3>
 
@@ -27,6 +27,8 @@
     <span> · </span>
     <a href="./github/contribute.md">参与贡献</a>
 </h3>
+
+![](./imgs/f78a8b7c.png)
 
 ---
 
