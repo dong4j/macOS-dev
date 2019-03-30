@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Dev on macOS',
   description: '在 macOS 上优雅开发',
-  base: '/macOS-dev/',
+  // base: '/macOS-dev/',
   head: [
     ['link', {
       rel: 'icon',
